@@ -15,3 +15,12 @@ coordinates = 15.4524
 print("The coordinates are: ", coordinates)
 print(type(coordinates))
 
+# complex data type
+y = 4-3j
+x = 3j
+z = -2j
+
+print(type(x))
+print(type(y))
+print(type(z))
+
