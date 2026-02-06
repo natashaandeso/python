@@ -5,4 +5,4 @@ Planets = {
 print(Planets)
 
 # print the planets from 2 to 6
-print(Planets["names"][2:6])
+print(Planets["names"][2:7])
