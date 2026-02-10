@@ -28,6 +28,8 @@ while number >= 150:
     print(number)
     number = number - 3
 
+print('=========================')
 # research on python functions both with parameters and without parameters.
+
 
 
