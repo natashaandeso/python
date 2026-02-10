@@ -7,6 +7,8 @@ def my_function():
 my_function()
 my_function()
 my_function()
+my_function()
+my_function()
 
 print('===============================')
 # example 2

@@ -19,12 +19,12 @@ for county in counties:
 
 print('=================')
 for county in counties:
-    if "Eldoret" in counties:
+    if "Narok" in counties:
         print("this county is found")
-        break
+    
     else:
         print("The county is not found")
-
+        break
 print('=================')
 # The for loop can also be used to iterate through a dictionary
 

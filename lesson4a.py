@@ -1,7 +1,7 @@
 # Nested  if statement
 # A nested if statement is an if statement that is contained within another if statement.
 
-age = 20
+age = 12
 weight =60
 
 if age > 15:
